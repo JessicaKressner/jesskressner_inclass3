@@ -1,0 +1,21 @@
+.counterWrapper {
+  align-items: center;
+}
+
+.counterValue {
+  font-size: 48px;
+}
+
+.buttonWrapper {
+  align-items: center;
+  margin-top: 200px;
+  margin-left: 400px;
+  display: flex;
+}
+
+.button {
+  height: 100px;
+  width: 200px;
+  font-size: 48px;
+  margin: 100px;
+}
